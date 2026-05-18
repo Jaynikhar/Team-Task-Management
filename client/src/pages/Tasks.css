@@ -1,0 +1,29 @@
+.tasks {
+  padding: 30px;
+}
+
+.create-box {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.list {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  width: 200px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+select {
+  margin-top: 10px;
+  width: 100%;
+  padding: 5px;
+}

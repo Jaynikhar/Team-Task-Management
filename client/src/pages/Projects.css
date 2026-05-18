@@ -1,0 +1,36 @@
+.projects {
+  padding: 30px;
+}
+
+.create-box {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.create-box input {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.create-box button {
+  padding: 10px 15px;
+  border: none;
+  background: #4facfe;
+  color: white;
+  border-radius: 8px;
+}
+
+.list {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
