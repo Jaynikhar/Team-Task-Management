@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://team-task-management-ou5r.onrender.com",
+  baseURL: "https://team-task-management-ou5r.onrender.com/api",
 });
 
 
