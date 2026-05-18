@@ -12,7 +12,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: "https://team-task-management-lkb5e8es4-jay-nikhars-projects.vercel.app",
+  origin: "https://team-task-management-jade-one.vercel.app",
   credentials: true
 }));
 app.use(express.json());
