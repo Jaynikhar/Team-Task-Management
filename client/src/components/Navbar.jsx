@@ -16,8 +16,8 @@ const Navbar = () => {
   };
 
   const handleLogout = () => {
-    localStorage.clear(); // remove token + everything
-    window.location.href = "/login";
+    localStorage.clear(); // remove token
+    navigate("/login");   // redirect without reload
   };
 
   return (
