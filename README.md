@@ -165,6 +165,27 @@ npm run dev
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/login.png" width="45%" />
+  <img src="./screenshots/signup.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="45%" />
+  <img src="./screenshots/projects.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/tasks.png" width="45%" />
+</p>
+
+
+
+
+---
+
 ## 🚀 Future Improvements
 
 * ✨ Add task deadlines & reminders
